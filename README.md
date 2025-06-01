@@ -1,2 +1,3 @@
 # Catch_The_Stars
-my first graphical game
+# This is a graphical game where you catch falling stars 
+# enjoy!
